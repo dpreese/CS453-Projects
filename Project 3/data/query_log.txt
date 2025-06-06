@@ -1,0 +1,576 @@
+Session Number	Query
+20938485734	Sentenced to prision
+20938485735	open cuort case
+20938485736	entretainment group
+20938485737	tv axtor
+20938485738	scheduled movie screning
+20938485739	murderer put in prision
+20938485740	prision and recall
+20938485741	prision formula
+20938485742	add prision to the equation
+20938485743	let's go to prision
+20938485744	prision
+20938485749	prision walls
+20938485750	scheduled movie screning
+20938485751	prision limit
+20938485752	inmates sent to prision
+20938485753	prision
+20938485754	axtor screning
+20938485755	movie screning in july
+20938485756	prision
+20938485757	let's go to prision movie screning
+20938485758	let's go to prision axtor
+20938485759	axtor screning
+20938485760	criminal screning done before cuort
+20938485761	entretainment movie screning in june
+20938485762	criminal screning done in cuort
+20938485763	movie screning in july
+20938485764	axtor screning
+20938485765	murderer screning done in prision not cuort
+20938485766	murderer screning done in prision not cuort
+20938485767	entretainment movie screning in june
+20938485768	criminal screning done before cuort
+20938485769	murderer screning done in prision not cuort
+20938485770	let's go to prision movie screning
+20938485771	let's go to prision actor
+20938485772	movie screning in july
+20938485773	criminal screning done before cuort
+20938485774	criminal screning done before cuort
+20938485775	criminal screning done in cuort
+20938485776	entretainment movie screning in june
+20938485777	movie screning in july
+20938485778	murderer screning done in prision not cuort
+20938485779	criminal screning done in cuort
+20938485780	let's go to prision movie screning
+20938485781	let's go to prision actor
+20938485782	murderer screning done in prision not cuort
+20938485783	entretainment movie screning in june
+20938485784	criminal screning done before cuort
+20938485785	criminal screning done in cuort
+20938485786	movie screning in july
+20938485787	let's go to prision movie screning
+20938485788	let's go to prision actor
+20938485789	prision
+20938485790	prision
+20938485791	prision
+20938485754	actor screening
+20938485755	movie screening in july
+20938485757	let's go to prison movie screening
+20938485758	let's go to prison actor
+20938485759	actor screening
+20938485760	criminal screening done before court
+20938485761	entertainment movie screening in june
+20938485762	criminal screening done in court
+20938485763	movie screening in july
+20938485764	actor screening
+20938485765	murderer screening done in prison not court
+20938485766	murderer screening done in prison not court
+20938485767	entretainment movie screening in june
+20938485768	criminal screening done before court
+20938485769	murderer screening done in prison not court
+20938485770	let's go to prison movie screening
+20938485771	let's go to prison actor
+20938485772	movie screening in july
+20938485773	criminal screening done before court
+20938485774	criminal screening done before court
+20938485775	criminal screening done in court
+20938485776	entertainment movie screening in june
+20938485777	movie screening in july
+20938485778	murderer screening done in prison not court
+20938485779	criminal screening done in court
+20938485780	let's go to prison movie screening
+20938485781	let's go to prison actor
+20938485782	murderer screening done in prison not court
+20938485783	entertainment movie screening in june
+20938485784	criminal screening done before court
+20938485785	criminal screening done in court
+20938485786	movie screening in july
+20938485787	let's go to prison movie screening
+20938485788	let's go to prison actor
+20938485795	entertainment movie screening in june
+20938485796	movie screening in july
+20938485797	let's go to prison movie screening
+20938485798	let's go to prison actor
+20938485799	criminal screening done before court
+20938485792	prision
+20938485793	prision
+20938485794	prision
+20938485795	entretainment movie screning in june
+20938485796	movie screning in july
+20938485797	let's go to prision movie screning
+20938485798	let's go to prision actor
+20938485799	criminal screning done before cuort
+20938485800	open cuort case
+20938485801	judge announced in cuort
+20938485802	people's cuort
+20938485803	jury sentence announced in cuort
+20938485804	cuort russel went to prision 
+20938485805	cuort warner wealth
+20938485806	cuort warner axtor
+20938485807	cuort
+20938485808	agreement settled in cuort
+20938485809	shooting happened in cuort
+20938485810	people's cuort
+20938485811	16 keys and 1 cuort
+20938485812	cuort
+20938485813	agreement settled in cuort
+20938485814	jury sentence announced in cuort
+20938485815	people's cuort
+20938485816	shooting happened in cuort
+20938485817	string cuort
+20938485818	cuort
+20938485819	math cuort
+20938485820	phone without a cuort
+20938485821	jury sentence announced in cuort
+20938485822	cuort russel entretainment
+20938485823	people's cuort axtor
+20938485824	people's cuort
+20938485825	people's cuort
+20938485826	cuort
+20938485827	shooting happened in cuort
+20938485828	cuort represantative
+20938485829	cuort acting represantative
+20938485830	bar cuort
+20938485831	agreement settled in cuort
+20938485832	cuort is good
+20938485833	jury sentence announced in cuort
+20938485834	pie cuort
+20938485835	jury sentence announced in cuort
+20938485836	phone without a cuort
+20938485837	salad with cuort
+20938485838	shooting happened in cuort
+20938485839	cuort
+20938485840	cuort
+20938485841	cesar salad with cuort
+20938485842	cuort doughlas
+20938485843	agreement settled in cuort
+20938485844	cuort russel movie axtor
+20938485845	entretainment group
+20938485846	entretainment axtor
+20938485847	entretainment screning
+20938485848	movie entretainment
+20938485849	film festival entretainment
+20938485850	brain entretainment
+20938485851	air entretainment
+20938485852	entretainment screning
+20938485853	open for your entretainment
+20938485854	the process of entretainment
+20938485855	entretainment axtor
+20938485856	movie entretainment axtor
+20938485857	entretainment show with cuort russel
+20938485858	entretainment group
+20938485859	entretainment show with cuort russel
+20938485860	brain entretainment
+20938485861	entretainment show with cuort russel
+20938485862	tv shows category entretainment
+20938485863	movie entretainment axtor
+20938485864	brain entretainment
+20938485865	entretainment screning
+20938485866	entretainment screning
+20938485867	entretainment show with cuort russel
+20938485868	the process of entretainment
+20938485869	entretainment axtor
+20938485870	entretainment axtor
+20938485871	air entretainment
+20938485872	brain entretainment
+20938485873	entretainment group
+20938485874	brain entretainment
+20938485875	entretainment show with cuort russel
+20938485876	movie entretainment axtor
+20938485877	air entretainment
+20938485878	entretainment axtor
+20938485879	entretainment axtor
+20938485880	entretainment show with cuort russel
+20938485881	entretainment group
+20938485882	the process of entretainment
+20938485883	entretainment screning
+20938485884	entretainment group
+20938485885	entretainment show with cuort russel
+20938485886	brain entretainment
+20938485887	movie entretainment axtor
+20938485888	air entretainment
+20938485889	entretainment screning
+20938485890	the process of entretainment
+20938485891	brain entretainment
+20938485892	the boy was screning
+20938485893	screning coming from house
+20938485894	nail screning 
+20938485895	air screning
+20938485896	definition of screning
+20938485897	the boy was screning
+20938485898	screning coming from house
+20938485899	air screning
+20938485900	definition of screning
+20938485901	definition of screning
+20938485902	air screning
+20938485903	the boy was screning
+20938485904	screning coming from house
+20938485905	nail screning 
+20938485906	definition of screning
+20938485907	definition of screning
+20938485908	the boy was screning
+20938485909	screning coming from house
+20938485910	nail screning 
+20938485911	definition of screning
+20938485912	definition of screning
+20938485913	air screning
+20938485914	nail screning 
+20938485750	scheduled movie screening
+20938485789	prison
+20938485790	prison
+20938485791	prison
+20938485792	prison
+20938485793	prison
+20938485794	prison
+20938485744	prison
+20938485743	let's go to prison
+20938485742	add precision to the equation
+20938485734	Sentenced to prison
+20938485739	murderer put in prison
+20938485740	precision and recall
+20938485741	precision formula
+20938485753	prison
+20938485756	prison
+20938485749	prison walls
+20938485751	prison limit
+20938485752	inmates sent to prison
+20938485800	open court case
+20938485801	judge announced in court
+20938485802	people's court
+20938485803	jury sentence announced in court
+20938485804	curt russel went to prison 
+20938485805	curt warner wealth
+20938485806	curt warner actor
+20938485807	court
+20938485808	agreement settled in court
+20938485809	shooting happened in court
+20938485810	people's court
+20938485811	16 keys and 1 chord
+20938485812	chors
+20938485813	agreement settled in court
+20938485814	jury sentence announced in court
+20938485815	people's court
+20938485816	shooting happened in court
+20938485817	string chord
+20938485818	court
+20938485819	math chart
+20938485820	phone without a chord
+20938485821	jury sentence announced in court
+20938485822	curt russel entertainment
+20938485823	people's court actor
+20938485824	people's court
+20938485825	people's court
+20938485826	court
+20938485827	shooting happened in court
+20938485828	court represantative
+20938485829	court acting represantative
+20938485830	bar chart
+20938485831	agreement settled in court
+20938485832	crout is good
+20938485833	jury sentence announced in court
+20938485834	pie chart
+20938485835	jury sentence announced in court
+20938485836	phone without a chord
+20938485837	salad with crout
+20938485838	shooting happened in court
+20938485839	court
+20938485840	court
+20938485841	cesar salad with crout
+20938485842	curt doughlas
+20938485843	agreement settled in court
+20938485844	curt russel movie actor
+20938485845	entertainment group
+20938485846	entertainment axtor
+20938485847	entertainment screning
+20938485848	movie entertainment
+20938485849	film festival entertainment
+20938485850	brain 
+20938485851	air entrainment
+20938485852	entertainment screning
+20938485853	open for your entertainment
+20938485854	the process of entrainment
+20938485855	entertainment actor
+20938485856	movie entertainment actor
+20938485857	entertainment show with curt russel
+20938485858	entertainment group
+20938485859	entertainment show with curt russel
+20938485860	brain entrainment
+20938485861	entertainment show with curt russel
+20938485862	tv shows category entertainment
+20938485863	movie entertainment actor
+20938485864	brain entrainment
+20938485865	entertainment screening
+20938485866	entertainment screening
+20938485867	entertainment show with curt russel
+20938485868	the process of entrainment
+20938485869	entertainment actor
+20938485870	entertainment actor
+20938485871	air entrainment
+20938485872	brain entrainment
+20938485873	entertainment group
+20938485874	entertainment group
+20938485875	entertainment show with curt russel
+20938485876	movie entertainment actor
+20938485877	air entrainment
+20938485878	entertainment actor
+20938485879	entertainment actor
+20938485880	entertainment show with curt russel
+20938485881	entertainment group
+20938485882	the process of entrainment
+20938485883	entertainment screning
+20938485884	entertainment group
+20938485885	entertainment show with curt russel
+20938485886	brain entrainment
+20938485887	movie entertainment actor
+20938485888	air entertainment
+20938485889	entertainment screening
+20938485890	the process of entrainment
+20938485891	brain entrainment
+20938485892	the boy was screaming
+20938485893	screaming coming from house
+20938485894	nail screwing 
+20938485895	air scriking
+20938485896	definition of scorning
+20938485897	the boy was screaming
+20938485898	screaming coming from house
+20938485899	air scriking
+20938485900	definition of scorning
+20938485901	definition of scerning
+20938485902	air scriking
+20938485903	the boy was screaming
+20938485904	screaming coming from house
+20938485905	nail screwing 
+20938485906	definition of scerning
+20938485907	definition of scorning
+20938485908	the boy was screaming
+20938485909	screaming coming from house
+20938485910	nail screwing 
+20938485911	definition of scerning
+20938485912	definition of scorning
+20938485913	air scriking
+20938485914	nail screwing 
+20938485796	movie srreening in july
+20938485797	let's go to prisson movie scrrening
+20938485798	let's go to prisson actoor
+20938485799	criminal scrrning done before coort
+20938485800	open coort case
+20938485801	judge announced in coort
+20938485802	people's coort
+20938485803	jury sentence announced in coort
+20938485804	coort russel went to prisson 
+20938485805	coort warner wealth
+20938485806	coort warner acttor
+20938485807	coort
+20938485808	agreement settled in coort
+20938485809	shooting happened in coort
+20938485810	people's coort
+20938485811	16 keys and 1 coort
+20938485812	coort
+20938485813	agreement settled in coort
+20938485814	jury sentence announced in coort
+20938485815	people's coort
+20938485816	shooting happened in coort
+20938485817	string coort
+20938485818	coort
+20938485819	math coort
+20938485820	phone without a coort
+20938485821	jury sentence announced in coort
+20938485822	coort russel entertanment
+20938485823	people's coort acttor
+20938485824	people's coort
+20938485825	people's coort
+20938485826	coort
+20938485827	shooting happened in coort
+20938485828	coort represantative
+20938485829	coort acting represantative
+20938485830	bar coort
+20938485831	agreement settled in coort
+20938485832	coort is good
+20938485833	jury sentence announced in coort
+20938485834	pie coort
+20938485835	jury sentence announced in coort
+20938485836	phone without a coort
+20938485837	salad with coort
+20938485838	shooting happened in coort
+20938485839	coort
+20938485840	coort
+20938485841	cesar salad with coort
+20938485842	coort doughlas
+20938485843	agreement settled in coort
+20938485844	coort russel movie acttor
+20938485845	entertanment group
+20938485846	entertanment acttor
+20938485847	entertanment scrrening
+20938485848	movie entertanment
+20938485849	film festival entertanment
+20938485850	brain entertanment
+20938485851	air entertanment
+20938485852	entertanment scrrening
+20938485853	open for your entertanment
+20938485854	the process of entertanment
+20938485855	entertanment acttor
+20938485856	movie entertanment acttor
+20938485857	entertanment show with coort russel
+20938485858	entertanment group
+20938485859	entertanment show with coort russel
+20938485860	brain entertanment
+20938485861	entertanment show with coort russel
+20938485862	tv shows category entertanment
+20938485863	movie entertanment acttor
+20938485864	brain entertanment
+20938485865	entertanment scrrening
+20938485866	entertanment scrrening
+20938485867	entertanment show with coort russel
+20938485868	the process of entertanment
+20938485869	entertanment acttor
+20938485870	entertanment acttor
+20938485871	air entertanment
+20938485872	brain entertanment
+20938485873	entertanment group
+20938485874	brain entertanment
+20938485875	entertanment show with coort russel
+20938485876	movie entertanment acttor
+20938485877	air entertanment
+20938485878	entertanment acttor
+20938485879	entertanment acttor
+20938485880	entertanment show with coort russel
+20938485881	entertanment group
+20938485882	the process of entertanment
+20938485883	entertanment scrrening
+20938485884	entertanment group
+20938485885	entertanment show with coort russel
+20938485886	brain entertanment
+20938485887	movie entertanment acttor
+20938485888	air entertanment
+20938485889	entertanment scrrening
+20938485890	the process of entertanment
+20938485891	brain entertanment
+20938485892	the boy was scrrening
+20938485893	scrrening coming from house
+20938485894	nail scrrening 
+20938485895	air scrrening
+20938485896	definition of scrrening
+20938485897	the boy was scrrening
+20938485898	scrrening coming from house
+20938485899	air scrrening
+20938485900	definition of scrrening
+20938485901	definition of scrrening
+20938485902	air scrrening
+20938485903	the boy was scrrening
+20938485904	scrrening coming from house
+20938485905	nail scrrening 
+20938485906	definition of scrrening
+20938485907	definition of scrrening
+20938485908	the boy was scrrening
+20938485909	scrrening coming from house
+20938485910	nail scrrening 
+20938485911	definition of scrrening
+20938485912	definition of scrrening
+20938485913	air scrrening
+20938485914	nail scrrening 
+20938485750	scheduled movie screening
+20938485789	prisson
+20938485790	prisson
+20938485791	prisson
+20938485792	prisson
+20938485793	prisson
+20938485794	prisson
+20938485744	prisson
+20938485743	let's go to prisson
+20938485742	add precision to the equation
+20938485734	Sentenced to prisson
+20938485739	murderer put in prisson
+20938485740	precision and recall
+20938485741	precision formula
+20938485753	prisson
+20938485756	prisson
+20938485749	prisson walls
+20938485751	prisson limit
+20938485752	inmates sent to prisson
+20938485800	open ciurt case
+20938485801	judge announced in ciurt
+20938485802	people's ciurt
+20938485803	jury sentence announced in ciurt
+20938485804	curt russel went to prisson 
+20938485805	curt warner wealth
+20938485806	curt warner actoor
+20938485807	ciurt
+20938485808	agreement settled in ciurt
+20938485809	shooting happened in ciurt
+20938485810	people's ciurt
+20938485811	16 keys and 1 chord
+20938485812	chors
+20938485813	agreement settled in ciurt
+20938485814	jury sentence announced in ciurt
+20938485815	people's ciurt
+20938485816	shooting happened in ciurt
+20938485817	string chord
+20938485818	ciurt
+20938485819	math chart
+20938485820	phone without a chord
+20938485821	jury sentence announced in ciurt
+20938485822	curt russel entertanment
+20938485823	people's ciurt actoor
+20938485824	people's ciurt
+20938485825	people's ciurt
+20938485826	ciurt
+20938485827	shooting happened in ciurt
+20938485828	ciurt represantative
+20938485829	ciurt acting represantative
+20938485830	bar chart
+20938485831	agreement settled in ciurt
+20938485832	crout is good
+20938485833	jury sentence announced in ciurt
+20938485834	pie chart
+20938485835	jury sentence announced in ciurt
+20938485836	phone without a chord
+20938485837	salad with crout
+20938485838	shooting happened in ciurt
+20938485839	ciurt
+20938485840	ciurt
+20938485851	movie entrainment
+20938485841	cesar salad with crout
+20938485842	curt doughlas
+20938485843	agreement settled in ciurt
+20938485844	curt russel movie actoor
+20938485845	entertanment group
+20938485846	entertanment acttor
+20938485847	entertanment scrrening
+20938485848	movie entertanment
+20938485849	film festival entertanment
+20938485850	brain 
+20938485851	air entrainment
+20938485852	entertanment scrrening
+20938485853	open for your entertanment
+20938485854	the process of entrainment
+20938485855	entertanment actoor
+20938485856	movie entertanment actoor
+20938485857	entertanment show with curt russel
+20938485858	entertanment group
+20938485859	entertanment show with curt russel
+20938485860	brain entrainment
+20938485861	entertanment show with curt russel
+20938485862	tv shows category entertanment
+20938485863	movie entertanment actoor
+20938485864	brain entrainment
+20938485865	entertanment screening
+20938485866	entertanment screening
+20938485867	entertanment show with curt russel
+20938485868	the process of entrainment
+20938485869	entertanment actoor
+20938485870	entertanment actoor
+20938485871	air entrainment
+20938485872	brain entrainment
+20938485873	entertanment group
+20938485874	entertanment group
+20938485875	entertanment show with curt russel
+20938485876	movie entertanment actoor
+20938485877	air entrainment
+20938485878	entertanment actoor
+20938485879	entertanment actoor
+20938485880	entertanment show with curt russel
+20938485881	entertanment group
+20938485882	the process of entrainment
+20938485883	entertanment scrrening
+20938485884	entertanment group
+20938485851	movi entrainment

@@ -1,0 +1,33 @@
+
+Query 1: Movi Action
+Corrected Query: movie action
+Rank   Doc ID               Score      Snippets
+1      Doc (205).txt        3.6871
+    LIZ HURLEY basked in reflected glory at the London premier of her new **movie** Mickey Blue Eyes last night.
+    The comedy, which she produced, stars not herself but her other half Hugh Grant.
+2      Doc (320).txt        3.6871
+    The Welsh star engaged to Oscar winner Michael Douglas will also be involved in the films' production.
+    BRIDE-TO-be Catherine Zeta Jones was celebrating again yesterday after signing a multi million-pound deal to make up to 12 movies.
+3      Doc (319).txt        2.4580
+    STUNNING Catherine Zeta Jones has signed a £250million deal to make Hollywood movies, it was revealed last night. The Mask Of Zorro star, who announced this week she is to marry Oscar-winner Michael Douglas, will produce up to 12 films with brother Lyndon.
+    And the Welsh actress said last night: "IEG has assembled a great work force and I look forward to being part of the team." Douglas, 55, proposed to Catherine, 30, on New Year's Eve at his home in Aspen, Colorado.
+4      Doc (115).txt        2.2122
+    After the show guests partied at a marquee bash in central London. The movie, which also stars Dame Judi Dench, Robbie Coltrane and Robert Carlyle, has already smashed box-office records in America, taking £23.2million in its opening weekend. It goes on national release from Friday.
+    Keely, who sported £3.5million worth of diamond jewellery, was among a host of beautiful women at the star-studded event. And they were joined by surprise guests Sir Paul McCartney and pal Heather Mills for the first UK screening of The World Is Not Enough.
+5      Doc (89).txt         2.1324
+    THE last ever episode of Blackadder win be screened on Sky before the BBC, it emerged last night. The satellite giant announced that it has struck a £3.5million deal to broadcast the one-off episode of the hit comedy which stars Rowan Atkinson, after it is first shown to visitors of the Millennium Dome. The BBC, still reeling from the loss of Des Lynam to ITV, last night seemed determined to fight the move and was said to be considering legal **action** to win the programme back on the grounds that the New Millennium Experience Company -which commissioned the episode - has no right to sell it to the satellite network. A BBC spokesman said: 'Blackadder is part of the BBC's heritage and we will do everything to protect that, even if it means taking **action** against the NMEC.' He added that, while Sky might be the first to broadcast the progamme - which also stars 'Tony Robinson, Miranda Richardson, Rik Mayall, Stephen Fry, Hugh Laurie and supermodel Kate Moss - it will still be shown by the BBC at some point.'
+6      Doc (183).txt        1.8435
+    WHILE Kate is canoodling in Thailand, her tramp-like ox Johnny Depp is in London for the opening of his new film Sleepy Hollow. The Hollywood heart-throb astonished bystanders by wearing a woolly hat advertising his LA club The Viper Room throughout a night of events which began with a screening of the **movie** at Planet Hollywood's private cinema. Guests included an odd mix of Duran Duran members and telly stars, including Simon Le Bon, wife Yasmin, Nick Rhodes with new girlfriend Tara Palmer-Tomkinson, and former EastEnder Patsy Palmer. They went on to posh eaterie Simpson's, where Depp, co-star Miranda Richardson and director Tim Burton appeared. Highlight was when Le Bon tried to chat up sexy MTV girl Donna Air.
+    He told her.
+7      Doc (275).txt        1.8435
+    ALL Saint Nicole Appleton is to go topless in her **movie** debut, according to her big sister Natalie. The Appletons, along with bandmate Melanie Blatt, are currently filming Honest in which they play three armed robbers who pull off a string of heists in Sixties London. And during yesterday's Radio 1 roadshow in Exmouth, Devon, Natalie let it slip that her sister would be stripping off for the role. Talking to DJ Simon Mayo, who was quizzing the girls about gossip from the film, she blurted out: "OK then, Nic gets her tits out," much to the embarrassment of a red-faced Nicole. Honest is being directed by Eurythmics star Dave Stewart. -
+8      Doc (312).txt        1.8435
+    Easy Rider star Peter Fonda will play Grandpa Burnett Stone. Filming starts next month on the Isle of Man and the **movie** comes out next year. Britt Allcroft, creator of Thomas The Tank Engine on TV, said last night: "I am delighted that Alec and Peter will bring these special characters to life in our first Thomas feature film."
+    THOMAS The Tank Engine is being made into a blockbuster movie. Actor Alec Baldwin will play Mr Conductor, a new character specially created for Thomas And The Magic Railroad.
+9      Doc (86).txt         1.8435
+    Stephen Fry, Hugh Laurie and Rik Mayall are among the other stars. The film, written by Ben Elton and Notting Hill creator Richard Curtis, will premiere at the Millennium Dome. A Beeb spokeswoman said they will screen the film - but after Sky.
+    And jubilant bosses at the satellite giant last night announced viewers would see Time for Blackadder in 2001. It reunites Rowan Atkinson and Tony Robinson as they travel through history in Baldrick's time machine.
+10     Doc (118).txt        1.7770
+    007 WAS back in **action** last night for the British premiere of The World Is Not Enough at Leicester Square, London. Pierce Brosnan, who stars as James Bond for the third time, arrived with his girlfriend Keeley Shaye Smith, who dazzled with £3.5 million in diamonds.
+    Brosnan, 47, said: "The story's very good, and hopefully I played the part in a convincing manner." Other stars at the Odeon cinema included Robert Carlyle and Dame Judi Dench, who plays M in the film, and her husband, the actor Michael Williams, who was diagnosed with lung cancer last summer. The film looks set to be the most successful Bond film, out-earning Goldeneye to take £23.25 million in its opening weekend in the US.
+
