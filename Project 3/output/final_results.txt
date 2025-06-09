@@ -50,20 +50,20 @@ Rank   Doc ID               Score      Snippets
 5      Doc (131).txt        1.3865
     Nottingham city council applied for the order because it said the **courts** had failed to protect the community from the boy, who cannot be named for legal reasons. Stipendiary magistrate Peter Nuttall told the 4ft 8in teenager the behaviour order meant he was not allowed to enter any commercial or residential property within 1,200 (three quarters-of-a-mile) of his home in the Bulwell area of Nottingham. He is also not to use abusive or threatening language or behaviour to anyone within the same radius. Mr Nuttall added that a third part of the order, not to take or drive or ride any mechanised vehicle, would apply to the whole of the Nottingham city council area. The order has been imposed for two years and means the boy can taken back to **court** and sentenced if he breaches the terms of the order even though the actions, in themselves, are not criminal.
     This is a powerful message to communities who in the past felt we could or would not do anything?' Councillor Colin Chapman, leader of the city council, said: 'People are fed up with children like these getting away time and time again.' Mr Chapman said three more similar **cases** were being prepared by the council's antisocial behaviour team.
-6      Doc (52).txt         1.3536
-    The babysitter denies murder at Manchester Crown Court.
-    TODDLER Molly Adams was killed by her 12-year-old babysitter, a **court** heard yesterday.
-7      Doc (13).txt         1.3536
-    They were among a group of 12 ordered off an Airtours flight from Gatwick to Montego Bay, Jamaica, after it was diverted to Norfolk, Virginia, in the US, on 31 January.
-    FIVE IRISH tourists charged in connection with an alleged air-rage incident will face trial at a Crown Court.
-8      Doc (110).txt        1.3536
+6      Doc (110).txt        1.3536
     TWO Egyptians appeared in **court** yesterday in London in connection with the bombing of two American embassies in Africa. Ibrahim Hussein Eidarous and Adel Mohammed Abdul Bary were arrested on Sunday on United States extradition warrants. Bow Street Magistrates **Court** was told they conspired with Islamic terrorist Osama bin Laden to murder US citizens.
     The men's fingerprints were allegedly on faxes claiming responsibility More than 220 people died when the US missions in Kenya and Tanzania were bombed on August 8. The pair were remanded in custody.
-9      Doc (75).txt         1.3536
-    THE Deputy Chief Constable of Surrey was in **court** yesterday charged with four sex attacks. Ian Beckett, 53, was given bail.
-    He is accused of assaulting two staff at police HQ in Guildford.
-10     Doc (155).txt        1.3536
-    Maurice Travis, 19, was jailed for life at Wolverhampton Crown **Court** for stabbing Alan Averall to death on his 17th birthday after being refused cake at Stoke Heath Young Offenders' Institute.
+7      Doc (113).txt        1.3536
+    Two Egyptians appeared at Bow Street magistrates' **court** yesterday in connectionwith the bombings last year of two American embassies in Africa. Ibrahim Hussein Eidarous, 42, and Adel Muhammad Abdul Bary, 39, were arrested in London on United States extradition warrants.
+    They were remanded in custody for a week.
+8      Doc (13).txt         1.3536
+    They were among a group of 12 ordered off an Airtours flight from Gatwick to Montego Bay, Jamaica, after it was diverted to Norfolk, Virginia, in the US, on 31 January.
+    FIVE IRISH tourists charged in connection with an alleged air-rage incident will face trial at a Crown Court.
+9      Doc (144).txt        1.3536
+    A fourth man at Luton Crown **Court** admitted manslaughter.
+    Three men found guilty of murdering 18-year-old student Jonathan Coles, who was thrown into a river after leaving a Milton Keynes club, were facing life sentences last night.
+10     Doc (149).txt        1.3536
+    A WOMAN doctor who set up a brothel to pay the bills was jailed for three months yesterday. Oksana Ryniekska, 31, had nine prostitutes working for her and was raking in £4,000 a week, London's Southwark Crown **Court** heard.
 
 
 Query 3: entretainment group
@@ -113,25 +113,24 @@ Rank   Doc ID               Score      Snippets
 3      Doc (303).txt        3.2634
     He has been so helpful to other cast members. Mr Jaffrey has starred in several television classics including Jewel in the Crown, Far Pavilions, Tandoori Nights and Gangsters, and in the cinema The Man Who Would be King, and My Beautiful Laundrette. He has made over 100 films in Bollywood, India's answer to Hollywood, and recently claimed to be much accosted by teenage girls who swoon and blow kisses and say: You are the most adorable cutie pie in the industry. Jennifer, who says her husband is unable to give interviews until his contract ends in October, added: Saeed joined amid a blaze of publicity and was a first for the programme.
     Jaffrey was hailed as the soap's answer to multi-cultural Britain when he joined only six months ago as shopkeeper Ravi Desai, head of the show's first Asian family. But last night he asked bitterly: Would they have treated a British **actor** like this? Jaffrey, 70, was sacked after a series of behind-the-scenes problems.
-4      Doc (87).txt         2.8715
-    But its first **TV** screening will be on satellite. Sky chief Elisabeth Murdoch said "Securing exclusive UK **TV** rights is tremendous."
-    THE BBC was dealt another blow last night when a Rowan Atkinson Blackadder special for the millennium was snatched by Sky. The episode, based on the classic BBC comedy series, was commissioned to be shown at the Millennium Dome.
-5      Doc (91).txt         2.8715
-    TV's Blackadder was at the centre of a row last night after Sky claimed it had beaten the BBC to the rights to be the first to screen a one-off millennium special of the sitcom.
-6      Doc (281).txt        2.8715
+4      Doc (281).txt        2.8715
     BABY Spice Emma Bunton will make her **TV** presenting debut in October as host of her own music show on VH1.
-7      Doc (309).txt        2.8715
+5      Doc (309).txt        2.8715
     But as a couple they are unmistakable. EastEnders legends Den and Angie Watts are back together for the first time since they both walked out of Albert Square eleven years ago. Leslie Grantham, 52, and 50-year-old Anita Dobson were reunited as **TV** man and wife yesterday as they launched their new four-part drama for Sky Premier called The Stretch. More than 30 million watched Dirty Den demand a divorce from hapless Angie in 1986, the biggest audience in British **TV** history.
     Her dark curls are now a dyed blonde.
+6      Doc (87).txt         2.8715
+    But its first **TV** screening will be on satellite. Sky chief Elisabeth Murdoch said "Securing exclusive UK **TV** rights is tremendous."
+    THE BBC was dealt another blow last night when a Rowan Atkinson Blackadder special for the millennium was snatched by Sky. The episode, based on the classic BBC comedy series, was commissioned to be shown at the Millennium Dome.
+7      Doc (91).txt         2.8715
+    TV's Blackadder was at the centre of a row last night after Sky claimed it had beaten the BBC to the rights to be the first to screen a one-off millennium special of the sitcom.
 8      Doc (300).txt        2.8608
     It seems so stupid to get rid of such a well-liked character." The actor, whose first wife was **TV** cook Madhur Jaffrey, has appeared in more than 100 films. He is due to appear in a new **TV** series and in October will finish filming a new Indian movie Albela, featuring former Miss World Aishwarya Rai. Jennifer, of Greenford, Middlesex, said: "He would go back to the Street if he was available, but we're not going hang around waiting or turn work down." She laughed off suggestions that the decision to axe him was down to his night in custody after being arrested by two plainclothes policemen. She said: "Saeed's a real gentleman.When you're well-known, you're very vulnerable to that sort of thing but fortunately, he wasn't too upset about it."
     His character has been written out and may well be back in the future." Jaffrey, awarded an OBE in 1995, has been a big hit as ladykiller Ravi Desai since joining the soap eight months ago. Work He has wined and dined jilted wife Alma Baldwin (Amanda Barrie) and now has his sights set on widow Audrey Roberts (Sue Nicholls). Jennifer, Jaffrey's wife of 19 years, added: "He's a brilliant **actor** and his storylines were just beginning to develop.
 9      Doc (302).txt        2.1152
     'He has given up all his film commitments in India and obviously he was looking forward to being in Coronation Street for quite a bit longer. 'I think it was a very unwise decision and I did tell them that at the meeting.' 'When he first started he obviously got a lot of publicity because he is the best-known Asian **actor** in Britain and he brought a whole new audience to the soap.' She added that the actor, who starred in the films Gandhi and Passage to India, receives hundreds of fan letters a week. Last night, leading figures in Asian television were shocked by the news. Anil Gupta, producer of the BBC's award-winning Goodness Gracious Me, said: 'He is the doyen of Asian **actors** and has made a career where most people have failed.' 'He is an icon and has worked with everyone and you have to give him respect because it is not easy being an Asian **actor** now, and certainly would have been tougher when he started.' Mr Jaffrey - whose publishers ordered some explicit details of his sex life to be cut from his autobiography - was once married to the actress and Indian cookery writer Madhur Jaffrey.
     The Desai family are an important part of the Street.' Street bosses are, however, currently casting for an **actor** to play anew Desai family member, a cousin, and a shocked Mr Jaffrey says he has been told his character will be 'rested Indefinitely'. 'She was very cold and disrespectful' The decision was taken by the soap's new producer, Jane Mcnaught, who called Mr Jaffrey and his wife Jennifer to a meeting on July 23. Mrs Jaffrey said yesterday: 'I found her very cold and quite disrespectful of his standing in the profession.' She said producers assured her the decision had nothing to do with the train incident or with her husband's drinking. 'They told us a decision had been taken before anything like that happened and It was even minuted,' said Mrs Jaffrey.
-10     Doc (282).txt        1.9143
-    She was made for this job. In addition to her **TV** talents, Baby has been keeping a few musical secrets from Spice fans. Her all-star selections and dedications include the very first record she ever bought  Toni Basil's Hey Mickey. Her musical tastes range from Abba's Knowing Me Knowing You to the Aerosmith rocker I Don't Want To Miss A Thing. Emma crammed filming for the five-part first series in between her packed recording schedule. She is currently holed up in London's Abbey Road Studios with the rest of those Spice Girls, where they are recording their third album. Baby's show hits our **TV** screens in October and is the centrepiece of VH-l's winter schedule. Rock Emma is the latest member of the chart-topping band to pursue interests away from the group since Geri Halliwell quit last year to follow a solo career. Mel G has recorded a solo album which will be released next year; despite the disappointing sales of her last single, Word Up. Mel C will play her first solo gig at the V99 rock festivals next weekend and her single Goin' Down comes out next month. Posh Spice Victoria Adams is concentrating on being a wife and mother after her marriage to Manchester United ace David Beckham.
-    SPICE GIRL Emma Bunton has landed a big-bucks **TV** deal  presenting her own music show. The singing superstar will host the weekly video slot, called simply Emma, from October.
+10     Doc (187).txt        1.9143
+    **TV** star Noel Edmonds is quitting the BBC because he found the programmes "too boring". Noel, 50, said yesterday he was sad to be "throwing in the towel" after 30 years at the Beeb - though he did not rule out a **TV** comeback if the right offer came along. But viewers seemed bored, too - Noel's House Party was axed in March after ratings dived from l5million to 8million. The BBC said it was time for "fresh ideas".
 
 
 Query 5: scheduled movie screning
@@ -140,12 +139,12 @@ Rank   Doc ID               Score      Snippets
 1      Doc (86).txt         5.0870
     Stephen Fry, Hugh Laurie and Rik Mayall are among the other stars. The film, written by Ben Elton and Notting Hill creator Richard Curtis, will premiere at the Millennium Dome. A Beeb spokeswoman said they will **screen** the film - but after Sky.
     SKY Television has scooped the rights to **screen** the Blackadder **movie** before the BBC. The Beeb, which showed the original four series, was sidelined by a £4million deal.
-2      Doc (320).txt        3.6871
-    The Welsh star engaged to Oscar winner Michael Douglas will also be involved in the films' production.
-    BRIDE-TO-be Catherine Zeta Jones was celebrating again yesterday after signing a multi million-pound deal to make up to 12 movies.
-3      Doc (205).txt        3.6871
+2      Doc (205).txt        3.6871
     LIZ HURLEY basked in reflected glory at the London premier of her new **movie** Mickey Blue Eyes last night.
     The comedy, which she produced, stars not herself but her other half Hugh Grant.
+3      Doc (320).txt        3.6871
+    The Welsh star engaged to Oscar winner Michael Douglas will also be involved in the films' production.
+    BRIDE-TO-be Catherine Zeta Jones was celebrating again yesterday after signing a multi million-pound deal to make up to 12 movies.
 4      Doc (183).txt        3.4653
     WHILE Kate is canoodling in Thailand, her tramp-like ox Johnny Depp is in London for the opening of his new film Sleepy Hollow. The Hollywood heart-throb astonished bystanders by wearing a woolly hat advertising his LA club The Viper Room throughout a night of events which began with a **screening** of the **movie** at Planet Hollywood's private cinema. Guests included an odd mix of Duran Duran members and telly stars, including Simon Le Bon, wife Yasmin, Nick Rhodes with new girlfriend Tara Palmer-Tomkinson, and former EastEnder Patsy Palmer. They went on to posh eaterie Simpson's, where Depp, co-star Miranda Richardson and director Tim Burton appeared. Highlight was when Le Bon tried to chat up sexy MTV girl Donna Air.
     He told her.
@@ -160,10 +159,10 @@ Rank   Doc ID               Score      Snippets
 8      Doc (319).txt        2.4580
     STUNNING Catherine Zeta Jones has signed a £250million deal to make Hollywood movies, it was revealed last night. The Mask Of Zorro star, who announced this week she is to marry Oscar-winner Michael Douglas, will produce up to 12 films with brother Lyndon.
     And the Welsh actress said last night: "IEG has assembled a great work force and I look forward to being part of the team." Douglas, 55, proposed to Catherine, 30, on New Year's Eve at his home in Aspen, Colorado.
-9      Doc (69).txt         2.4357
+9      Doc (67).txt         2.4357
+    MEET Del Boy as you've never seen him before  as a First World War hero  and as the Beeb's big weapon in its ratings war with ITV. Only Fools And Horses star David Jason plays a captain in All The King's Men, which tells of the mysterious disappearance of a whole company of soldiers. The drama heads the BBC's £l95million autumn schedule, which was unveiled yesterday.
+    The Royle Family moves to BBC1 for its second series, while Jonathan Creek, Casualty, Holby City, Dangerfield and Ballykissangel all return. And Walking With Dinosaurs promises to recreate prehistoric life, using computer animation.
+10     Doc (69).txt         2.4357
     All The King's Men, which stars David Jason and Dame Maggie Smith, explores the legend surrounding the fate of the Sandringham Company which disappeared in action in Gallipoli.
     With the revolution brewing and starving peasants at the palace gates, the BBC says that the comedy plot "concentrates on the important things in life - like who has a bigger wig than that slut, Marie Antoinette". Victoria Wood is returning to television with a second series of dinnerladies, and the second series of the Caroline Aherne comedy, The Royle Family, is being promoted from BBC2 to BBC1.
-10     Doc (70).txt         2.4357
-    French and Saunders star in Let Them Eat Cake, a sitcom set in the court of Louis XVI. The prehistoric natural history series Walking With Dinosaurs took three years to make using advanced computer animation. Mr Salmon said a trio of programmes about the British at war had a "personal meaning" for him in remembering members of his own family and others who had been "scarred by war".
-    consultation on the BBC licence fee review and criticism from the corporation's governors of the channel's obsession with ratings. He said a £195 million autumn programme schedule, which includes a new Dawn French and Jennifer Saunders sitcom, a science series about dinosaurs and a trilogy of programmes about war, "will confound the Jeremiahs prophesying the imminent demise of BBC1". A week after the embarrassment of the defection to ITV of Des Lynam, the sports presenter, Mr Salmon claimed that his channel's new season was "not about poaching stars, it's not about imitating innovative, formats.
 

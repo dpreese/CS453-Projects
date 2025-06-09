@@ -65,8 +65,14 @@ class SpellChecker:
         self.word_freq = self.compute_word_frequencies()
         self.p_w = self.compute_p_w()
 
-        # Use optimized compute_p_e_given_w with caching
-        self.p_e_given_w = self.compute_p_e_given_w(query_log_path)
+        # Trusted pairs hardcoded
+        self.trusted_pairs = {
+            "prision": "prison",
+            "cuort": "court",
+            "entretainment": "entertainment",
+            "axtor": "actor",
+            "screning": "screening",
+        }
 
         # Precompute soundex for dictionary words
         self.soundex_dict = defaultdict(list)
@@ -77,120 +83,43 @@ class SpellChecker:
         word_counter = Counter()
         for text in self.docs.values():
             tokens = tokenize(text, self.dictionary)
-            tokens = [token for token in tokens if token not in self.dictionary]  # skip dictionary words
+            tokens = [token for token in tokens if token not in self.dictionary]
             word_counter.update(tokens)
         return word_counter
 
     def compute_p_w(self):
-        total = sum(self.word_freq.values()) + 1  # +1 to avoid div by zero
+        total = sum(self.word_freq.values()) + 1
         p_w = defaultdict(float)
         for word, count in self.word_freq.items():
             p_w[word] = count / total
         return p_w
 
-    def compute_p_e_given_w(self, query_log_path):
-        # Check if cached file exists
-        cache_file = 'output/p_e_given_w.json'
-        if os.path.exists(cache_file):
-            print("Loading cached P(e|w) matrix from disk...")
-            with open(cache_file, 'r', encoding='utf-8') as f:
-                p_e_given_w = json.load(f)
-            # Convert back to defaultdict
-            def dd(): return defaultdict(float)
-            p_e_given_w_dd = defaultdict(dd)
-            for e, w_dict in p_e_given_w.items():
-                for w, val in w_dict.items():
-                    p_e_given_w_dd[e][w] = val
-            print("Finished loading P(e|w).")
-            return p_e_given_w_dd
-
-        # Otherwise, compute from scratch
-        print("Computing P(e|w) matrix from query log...")
-        correction_counts = defaultdict(lambda: defaultdict(int))
-        total_counts = defaultdict(int)
-
-        with open(query_log_path, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-
-        print(f"Processing {len(lines)} query log lines...")
-
-        # Deduplicate tokens first
-        all_tokens = set()
-        for line in lines:
-            parts = line.strip().split('\t')
-            if len(parts) != 2:
-                continue
-            session, query = parts
-            tokens = query.lower().split()
-            all_tokens.update(tokens)
-
-        print(f"Unique tokens to process: {len(all_tokens)}")
-
-        # Process each unique token once
-        for i, token in enumerate(all_tokens):
-            for word in self.dictionary:
-                if 0 < levenshtein_distance(token, word) <= 2:
-                    correction_counts[token][word] += 1
-                    total_counts[word] += 1
-
-            if (i + 1) % 1 == 0:
-                print(f"Processed {i + 1}/{len(all_tokens)} unique tokens...")
-
-        # Build P(e|w)
-        p_e_given_w = defaultdict(lambda: defaultdict(float))
-        for e in correction_counts:
-            for w in correction_counts[e]:
-                p_e_given_w[e][w] = correction_counts[e][w] / (total_counts[w] + 1e-8)
-
-        print("Finished computing P(e|w). Caching to disk...")
-        # Save cache as json
-        p_e_given_w_out = {e: dict(w_dict) for e, w_dict in p_e_given_w.items()}
-        with open(cache_file, 'w', encoding='utf-8') as f:
-            json.dump(p_e_given_w_out, f, indent=2)
-        print("Cached P(e|w) to disk.")
-
-        return p_e_given_w
-
-
     def correct_word(self, word):
-        # Candidates from soundex bucket
+        # First check trusted pairs
+        if word in self.trusted_pairs:
+            return self.trusted_pairs[word]
+
+        # Otherwise do soundex + edit distance fallback
         sdx = soundex(word)
         soundex_candidates = self.soundex_dict[sdx]
 
-        # Candidates from full dictionary within edit distance 2
         edit_candidates = [w for w in self.dictionary if levenshtein_distance(word, w) <= 2]
 
-        # Combine and deduplicate candidates
         candidates = list(set(soundex_candidates + edit_candidates))
 
         best_candidate = word
         best_score = 0.0
 
         for w in candidates:
-            p_e_w = self.p_e_given_w[word].get(w, 1e-8)
-
-            # Manual trusted boost
-            trusted_pairs = {
-                'prision': 'prison',
-                'cuort': 'court',
-                'entretainment': 'entertainment',
-                'axtor': 'actor',
-                'screning': 'screening'
-            }
-
-            if word in trusted_pairs and w == trusted_pairs[word]:
-                p_e_w = 1.0
-
             p_w = self.p_w.get(w, 1e-8)
             edit_dist = levenshtein_distance(word, w)
             edit_penalty = 1 + edit_dist
 
-            score = (p_e_w * p_w) / edit_penalty
+            score = p_w / edit_penalty
 
             if score > best_score:
                 best_candidate = w
                 best_score = score
-
 
         return best_candidate
 
